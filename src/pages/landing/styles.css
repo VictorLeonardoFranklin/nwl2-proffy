@@ -86,9 +86,9 @@
     justify-content: center;
 }
 
-  .total-connections img {
+.total-connections img {
     margin-left: 0.8rem;
-  }
+}
 
   @media (min-width:1100px) {
 
